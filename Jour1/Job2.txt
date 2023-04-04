@@ -1,0 +1,7 @@
+R =  3 / 10.10(-3) = 3000/10 = 300
+Donc R = 300 Ohm
+
+Il sera donc nécessaire d'utiliser une résitante d'au moins 300 Ohm
+
+
+
